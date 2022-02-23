@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 - 👋 Hi, I'm *N A T*
-- 🔭 I’m currently working on app-web dev
-- 🌱 I’m currently learning Javascript, TypeScript
+- 🔭 I’m currently working on backend developer
 - 📫 How to reach me: **`Github: @nattuan298` or `Gmail: natuan.298@gmail.com `**
 
