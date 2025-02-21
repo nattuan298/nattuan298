@@ -21,6 +21,6 @@ Cloud Platforms: AWS
 Credly: [Click here](https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e404733d2/public_url)
 
 💬 Let's Connect
-📫 How to reach me: 
-**`Github: @nattuan298` or `Gmail: natuan.298@gmail.com `**
+
+`Gmail: natuan.298@gmail.com `**
 
