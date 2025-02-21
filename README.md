@@ -14,9 +14,10 @@ Programming Languages: JavaScript, Typescript, Java
 Frameworks & Libraries: Node.js, Springboot
 Databases: MySQL, PostgreSQL, MongoDB
 Cloud Platforms: AWS
-Credly: [https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e404733d2/public_url]Link
-💬 Let's Connect
 
-💬 Ask me about anything
-📫 📫 How to reach me: **`Github: @nattuan298` or `Gmail: natuan.298@gmail.com `**
+Credly: [https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e404733d2/public_url]Link
+
+💬 Let's Connect
+📫 How to reach me: 
+**`Github: @nattuan298` or `Gmail: natuan.298@gmail.com `**
 
