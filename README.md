@@ -22,5 +22,5 @@ Credly: [Click here](https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e4
 
 💬 Let's Connect
 
-`Gmail: natuan.298@gmail.com `**
+**`Gmail: natuan.298@gmail.com `**
 
