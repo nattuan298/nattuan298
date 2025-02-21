@@ -15,7 +15,7 @@ Frameworks & Libraries: Node.js, Springboot
 Databases: MySQL, PostgreSQL, MongoDB
 Cloud Platforms: AWS
 
-Credly: [https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e404733d2/public_url](Link)
+Credly: [Click here](https://www.credly.com/badges/3a787ad1-ff59-4633-bf48-a79e404733d2/public_url)
 
 💬 Let's Connect
 📫 How to reach me: 
