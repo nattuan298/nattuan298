@@ -4,6 +4,7 @@
 **Backend Engineer**
 
 Hi, I'm Tyler Nguyen, a web/app developer based in Vietnam.
+
 🌟 About Me
 
 Backend Developer with over 4 years of experience developing and optimizing enterprise-level applications.
@@ -11,6 +12,7 @@ Currently, I am working @NAB to build a highly scalable product.
 Have a good understanding of processes in the Software Development Life Cycle.
 
 🚀 My Skills
+
 Programming Languages: JavaScript, Typescript, Java
 Frameworks & Libraries: Node.js, Springboot
 Databases: MySQL, PostgreSQL, MongoDB
